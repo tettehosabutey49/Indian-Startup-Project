@@ -1,6 +1,7 @@
 # Exploring Trends in the Indian Startup Funding Ecosystem
 
-Overview
+## Overview
+
 Welcome to our project repository, where we explore trends in the Indian startup funding ecosystem through data analysis. This project aims to provide valuable insights into the funding landscape of Indian startups from 2018 to 2021. Leveraging Python for data analysis and visualization tools like Power BI, we uncover compelling trends and offer strategic recommendations for investors navigating the dynamic Indian startup ecosystem.
 
 Key Insights
